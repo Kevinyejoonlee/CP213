@@ -1,0 +1,201 @@
+Loading source files for package cp213...
+Constructing Javadoc information...
+Building index for all the packages and classes...
+Standard Doclet version 18.0.2+9-61
+Building tree for all the packages and classes...
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/LeapYear.java:4: warning: no initial description
+ * @author kevin lee, 210872060
+   ^
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/Strings.java:4: warning: no initial description
+ * @author kevin lee 210872060
+   ^
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/Cipher.java:4: warning: no initial description
+ * @author kevin lee, 210872060
+   ^
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/SerialNumber.java:7: warning: no initial description
+ * @author kevin lee 210872060
+   ^
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/Numbers.java:4: warning: no initial description
+ * @author kevin lee 210872060
+   ^
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/cp213/A01Main.html...
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/A01Main.java:15: warning: no comment
+    public static final String CIPHERTEXT = "AVIBROWNZCEFGHJKLMPQSTUXYD"; // for testing substitute method
+                               ^
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/A01Main.java:10: warning: use of default constructor, which does not provide a comment
+public class A01Main {
+       ^
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/A01Main.java:17: warning: no comment
+    public static void main(String[] args) {
+                       ^
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/cp213/Cipher.html...
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/Cipher.java:9: warning: no comment
+    public static final String ALPHA = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+                               ^
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/Cipher.java:10: warning: no comment
+    public static final int ALPHA_LENGTH = ALPHA.length();
+                            ^
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/Cipher.java:7: warning: use of default constructor, which does not provide a comment
+public class Cipher {
+       ^
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/cp213/LeapYear.html...
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/LeapYear.java:7: warning: use of default constructor, which does not provide a comment
+public class LeapYear {
+       ^
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/cp213/Numbers.html...
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/Numbers.java:7: warning: use of default constructor, which does not provide a comment
+public class Numbers {
+       ^
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/cp213/SerialNumber.html...
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/SerialNumber.java:10: warning: use of default constructor, which does not provide a comment
+public class SerialNumber {
+       ^
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/cp213/Strings.html...
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/Strings.java:9: warning: no comment
+    public static final String VOWELS = "aeiouAEIOU";
+                               ^
+/Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/src/cp213/Strings.java:7: warning: use of default constructor, which does not provide a comment
+public class Strings {
+       ^
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/cp213/package-summary.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/cp213/package-tree.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/constant-values.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/cp213/class-use/LeapYear.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/cp213/class-use/Strings.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/cp213/class-use/Cipher.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/cp213/class-use/A01Main.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/cp213/class-use/SerialNumber.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/cp213/class-use/Numbers.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/cp213/package-use.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/overview-tree.html...
+Building index for all classes...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/allclasses-index.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/allpackages-index.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/index-files/index-1.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/index-files/index-2.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/index-files/index-3.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/index-files/index-4.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/index-files/index-5.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/index-files/index-6.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/index-files/index-7.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/index-files/index-8.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/index-files/index-9.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/index.html...
+Generating /Users/kevinlee/Documents/2nd year/COURSE/CP213 OOP/CP213- Master/a01Given/doc/help-doc.html...
+16 warnings
+
+Assignment 1 Methods Tests
+
+Tests are of the form:
+  Test Operation
+  {expected value}: actual value
+
+================================================================================
+Testing isLeapYear
+----------------------------------------
+isLeapYear(1900)
+  {false}: false
+isLeapYear(1996)
+  {true}: true
+isLeapYear(1999)
+  {false}: false
+isLeapYear(2000)
+  {true}: true
+
+================================================================================
+Testing isPalindrome
+----------------------------------------
+isPalindrome("racecar")
+  {true}: true
+isPalindrome("A man, a plan, a canal, Panama!")
+  {true}: true
+isPalindrome("David")
+  {false}: false
+
+================================================================================
+Testing isValid
+----------------------------------------
+isValid("a")
+  {true}: true
+isValid("_a")
+  {true}: true
+isValid("1a")
+  {false}: false
+
+================================================================================
+Testing pigLatin
+----------------------------------------
+pigLatin("David")
+  {"Avidday"}: "Avidday"
+pigLatin("arrow")
+  {"arrowway"}: "arrowway"
+pigLatin("yard")
+  {"ardyay"}: "ardyay"
+
+================================================================================
+Testing closest
+----------------------------------------
+closest(0.0, -5.0, 5.0)
+  {-5.0}: -5.0
+closest(0.0, -10.0, 5.0)
+  {5.0}: 5.0
+
+================================================================================
+Testing sumPartialHarmonic
+----------------------------------------
+sumPartialHarmonic(0)
+  {0.000000}: 0.000000
+sumPartialHarmonic(1)
+  {1.000000}: 1.000000
+sumPartialHarmonic(8)
+  {2.717857}: 2.717857
+
+================================================================================
+Testing allDigits
+----------------------------------------
+allDigits("a")
+  {false}: false
+allDigits("123")
+  {true}: true
+allDigits("12.3")
+  {false}: false
+
+================================================================================
+Testing validSn
+----------------------------------------
+validSn("SN/1234-567")
+  {true}: true
+validSn("SN/1234567")
+  {false}: false
+validSn("SN/123-4567")
+  {false}: false
+
+================================================================================
+Testing isPrime
+----------------------------------------
+isPrime(7)
+  {true}: true
+isPrime(5)
+  {true}: true
+isPrime(9)
+  {false}: false
+
+================================================================================
+Testing shift
+----------------------------------------
+shift("ABC", 0)
+  {"ABC"}: "ABC"
+shift("ABC", 3)
+  {"DEF"}: "DEF"
+shift("ABC", 30)
+  {"EFG"}: "EFG"
+
+================================================================================
+Testing substitute
+----------------------------------------
+substitute("ABC", AVIBROWNZCEFGHJKLMPQSTUXYD)
+  {"AVI"}: "AVI"
+substitute("XYZ", AVIBROWNZCEFGHJKLMPQSTUXYD)
+  {"XYD"}: "XYD"
+
+
